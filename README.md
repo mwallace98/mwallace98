@@ -7,7 +7,7 @@ I'm currently finishing up the Full Stack program at BloomTech and actively seek
 ## Tech Stack
 
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: Node.js, React
+- **Frameworks/Libraries**: Node.js, React, Express
 - **Database**: MySQL
 - **Tools**: Git, GitHub, Visual Studio Code
 
