@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm currently finishing up the Full Stack program at BloomTech and looking forward to transitioning into a software engineering role.
+I'm a Fullstack Graduate from Bloomtech looking forward to transitioning into a software engineering role.
 
 ## Tech Stack
 
